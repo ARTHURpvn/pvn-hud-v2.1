@@ -1,12 +1,12 @@
 ## Instruções
 
 ```bash
-para iniciar o server
+Para Iniciar o Server
     npm run dev
 
-para buildar:
+Para Buildar:
     npm run build
-    --quando terminar de buildar remova o background e depois remova a "/" do src e do href
 ```
+Obs: quando terminar de buildar remova o background e depois remova a "/" do src e do href
 
 ## Criado por ARTHURpvn
